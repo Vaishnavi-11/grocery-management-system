@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< PRODUCT CATALOGUE >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+A) Vegetables                                   E) Pantry 
+Product ID  Product Name  Price/unit            Product ID  Product Name       Price/unit
+1.          ONION         Rs. 60/kg             21.         SALT               Rs.20/kg             
+2.          POTATO        Rs. 35/kg             22.         SUGAR              Rs.45/kg
+3.          TOMATO        Rs. 10/kg             23.         BLACK PEPPER       Rs.53/100g
+4.          CARROT        Rs. 12/kg             24.         RED CHILLI POWDER  Rs.43/100g
+5.          SPINACH       Rs. 11/100g
+                                                F) Snacks & Beverages
+B) Fruits                                       Product ID  Product Name  Price/unit
+Product ID  Product Name  Price/unit            25.         CHIPS         Rs.15/packet
+6.          APPLE         Rs. 155/kg            26.         CHOCOLATE     Rs.45/bar
+7.          ORANGE        Rs. 50/kg             27.         PAPER BOAT    Rs.20/150ml
+8.          BANANA        Rs. 55/kg             28.         COCACOLA      Rs.124/L
+9.          PAPAYA        Rs. 42/kg
+10.         POMOGRANATE   Rs. 228/kg            G) Bakery
+                                                Product ID  Product Name  Price/unit
+C) Dairy & Deli                                 29.         BREAD         Rs.39/loaf
+Product ID  Product Name  Price/unit            30.         WHEAT BREAD   Rs.49/loaf
+11.         MILK          Rs. 40/L              31.         BISCUITS      Rs.30/packet
+12.         CURD          Rs. 90/L
+13.         BUTTER        Rs. 46/100g
+14.         CHEESE        Rs. 245/500g
+15.         PANEER        Rs. 174/500g
+16.         EGGS          Rs. 7/pc
+
+D) Frozen
+Product ID  Product Name        Price/unit
+17.         CORN                Rs.41/200g
+18.         PEAS                Rs.55/200g
+19.         ICE CREAM(VANILLA)  Rs.160/L
+20.         ICE CREAM(MANGO)    Rs.160/L
+
+==========================================================================================
